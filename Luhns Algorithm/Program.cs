@@ -5,6 +5,10 @@
  * Luhn's Algorithm                         *
  *                                          *
  ********************************************/
+
+// add another class call validate card method pass it some string
+// it should tell you if you have a valid credit card number or not
+
 using System;
 
 namespace Luhns_Algorithm
